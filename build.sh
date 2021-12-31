@@ -1,0 +1,1 @@
+docker build -t mereith/authing-nginx:0.0.1 .
